@@ -57,6 +57,7 @@ int main()
 
 ##OUTPUT
 
+<img width="739" height="202" alt="Screenshot 2026-03-15 152303" src="https://github.com/user-attachments/assets/d8ad0fbc-8527-4a2b-b7be-7fa0e31b482b" />
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -91,9 +92,7 @@ int main()
 
 ##OUTPUT
 
-
-##RESULT:
-  The programs are executed successfully.
+<img width="1485" height="235" alt="Screenshot 2026-03-15 152442" src="https://github.com/user-attachments/assets/84d258ee-b9c0-41bd-8317-4c6e20556f87" />
 
 # RESULT:
 The programs are executed successfully.
